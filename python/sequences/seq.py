@@ -26,17 +26,18 @@ def fib_array(max_fib):
 def fibinary(num):
 	aFibinary = [1]
 	terms = fib_array(num)
+	terms.reverse()
+	print terms
 	f_sum = 0
 #	i = len(terms)-1
 	#while f_sum != num:
-	for i in terms[::-1]:
-		print terms[i]
-		#f_sum += terms[i]
-		#if(f_sum > num):
-	#		aFibinary.append(0)
-#			f_sum -= terms[i]
-#		else:
-#			aFibinary.append(1)
+	for addend in terms[:len(terms)-2]:
+		f_sum += addend
+		if(f_sum > num):
+			aFibinary.append(0)
+			f_sum -= addend
+		else:
+			aFibinary.append(1)
 
 	return aFibinary
 	
