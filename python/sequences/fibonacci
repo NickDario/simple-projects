@@ -1,0 +1,13 @@
+Binary:
+Based of of powers of two
+most significant value on the left
+
+
+256	128	64	32	16	8	4	2	1	0
+0	0	0	0	0	0	0	0	0	0	=	0
+
+Fibonacci:
+	
+253	144	89	55	34	21	13	8	5	3	2	1	1	0
+
+
