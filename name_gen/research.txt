@@ -1,0 +1,280 @@
+[N] 		ietzsche
+
+M
+[Apoll] 	on]	ius
+[Apoll] 	od]	or]	us
+[Ar] 		ist]	ot	le
+[Ar] 		ius
+[Ar] 		ist]	ox]	in]	us 
+[An]		dro]	cyd]	es
+[An]		ax]	ila]	us
+[Phil] 		od]	em]	us
+[Am] 		ad]	eus
+[Ant] 		is]	then]	es
+[The] 		om]	brot]	us
+[Dem]		et	ri]	us
+[Sot]		ad]	es
+[De] 		mo]	ax
+[Ac]		ri]	on]
+[Ae]		des]	ia]
+[Ae]		des]	ius]
+[Ae]		ne]	as]
+[Ae]		ne]	si]	dem]	us]
+[Ae		sa]	ra]
+[Ae		schin]	es]
+[Ae]		ti]	us]
+Ag]		ap	ius]
+
+
+
+
+MAlpha[ ist, 
+MBeta[ od, ox, dro, ax, od, is, om, 
+MGamma[ mo, ta, tri, bro, the, de, em, en, ila, cyd, in, or, on, dy, do, ili ]
+connector[d, m, t, n, j, i, d, c, th, ph, sc, 
+MOmega[ us, es, as, ax, ius, le, on
+
+FAlpha[
+FBeta[ny, pi
+FGamma[si, arch
+connector[ s, r, c
+FOmega[us, ia, ias
+
+F
+[Dio] 		ny]	si]	us
+[H]		ipp] 	arch]	ia
+
+
+of Mytilene
+of Tarsus
+of Athens
+of Tyre
+of Seleucia
+of Rhodes
+of Syracuse
+of Thebes
+of Alexandria
+of Gadara
+of Corinth
+of Pergamon
+
+the Skeptic
+the Cynic
+the Neoplatonic
+the Stoic
+the Sophist
+
+Skeptic
+Cynic
+Neoplatonic
+Stoic
+Sophist
+Weight
+0
+0
+0
+0
+0
+Control
+0
+0
+0
+0
+1
+Sph 32
+0
+0
+0
+1
+0
+St 32
+0
+0
+0
+1
+1
+St, Sph 16
+0
+0
+1
+0
+0
+Np 32
+0
+0
+1
+0
+1
+Np, Sph 16
+0
+0
+1
+1
+0
+Np, St 16
+0
+0
+1
+1
+1
+Np, St, Sph 8
+0
+1
+0
+0
+0
+Cy 32
+0
+1
+0
+0
+1
+Cy, Sph 16 
+0
+1
+0
+1
+0
+Cy, St 16
+0
+1
+0
+1
+1
+Cy, St, Sph 16
+0
+1
+1
+0
+0
+Cy, Np 16
+0
+1
+1
+0
+1
+Cy, Np, Sph 8
+0
+1
+1
+1
+0
+Cy, Np, St 8
+0
+1
+1
+1
+1
+Cy, Np, St, Sph 4
+1
+0
+0
+0
+0
+Sk, 32
+1
+0
+0
+0
+1
+Sk, Sph 4
+1
+0
+0
+1
+0
+Sk, St 4
+1
+0
+0
+1
+1
+Sk, St, Sph 4
+1
+0
+1
+0
+0
+Sk, Np 16
+1
+0
+1
+0
+1
+Sk, Np, Sph 8
+1
+0
+1
+1
+0
+Sk, Np, St 8
+1
+0
+1
+1
+1
+Sk, Np, St, Sph 4
+1
+1
+0
+0
+0
+Sk, Cy 16
+1
+1
+0
+0
+1
+Sk, Cy, Sph 8
+1
+1
+0
+1
+0
+Sk, Cy, St 16 
+1
+1
+0
+1
+1
+Sk, Cy, St, Sph 4
+1
+1
+1
+0
+0
+Sk, Cy, Np 8 
+1
+1
+1
+0
+1
+Sk, Cy, Np, Sph 4
+1
+1
+1
+1
+0
+Sk, Cy, Np, St 4
+1
+1
+1
+1
+1
+Sk, Cy, Np, St, Sph 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
