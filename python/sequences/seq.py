@@ -41,8 +41,6 @@ def fibinary(num):
 
 	return aFibinary
 	
-	
-
 
 print("compute the fibonacci code for numbers up to N digits,")
 while(1):
