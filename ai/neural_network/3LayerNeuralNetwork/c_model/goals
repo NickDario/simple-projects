@@ -1,0 +1,14 @@
+
+use basic integer inputs and outputs to create a 3 layer neural network.
+neural network should accept 1..n inputs and outputs for following conditions
+
+
+fibonacci pattern - margin of error
+hailstone sequence - margin of error
+multiples of 2
+multiple of 3
+multiples of 4
+
+
+
+

@@ -1,0 +1,11 @@
+
+3 layers of nodes:
+	----------> Information Flow ---------->
+	1 - input nodes	
+					2 - hidden nodes
+										3 - output nodes	
+	bias node included as extra 'control' input node: multiply by weights of hidden nodes to find output's offset
+	
+	
+
+
