@@ -3,19 +3,24 @@
 
 
 #ifndef INPUT_H
-#define INPUt_H
+#define INPUT_H
 
 
 class InputNode: public Node{
 	private:
-	std::vector<Node> _hiddenNodes;
 	
 	public:
-	void setHiddenNodes(std::vector<Node>);
-	vector<Node> getHiddenNodes();
+		InputNode();
+		InputNode(int);
 	
-	
-}
+		void setInput(int);
+		int getInput();
+		
+		void setOutput(int);
+		int getOutput();
+		
+		virtual void computeOutput();
+};
 
 #endif 
 
